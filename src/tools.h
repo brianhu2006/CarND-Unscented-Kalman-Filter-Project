@@ -26,4 +26,6 @@ public:
 
 };
 
+float normalize_angle(float angle) ;
+
 #endif /* TOOLS_H_ */
